@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #363958;
+}
+.first-nav-bar{
+    padding: 50px;
+}
+.name-highlight{
+    color:#FF8367 ;
+}
+.button-1{
+    text-decoration:none ;
+    color: white;
+    background-image: linear-gradient(60deg, lightSalmon , tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.background-add{
+    background-color: #E5E5E5;
+    padding: 100px;
+    padding-bottom: 200px;
+}
+.background-add img{
+    width: 100%;
+    padding:10px;
+    border-radius:5px;
+}
+.last-work-float{
+    width: 40%;
+    float: left;
+    color: white;
+}
+.last-work-padding{
+    padding: 200px;
+    background-image: url(images/shapes/photolast.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+.button-last{
+    text-decoration:none ;
+    color: white;
+    background-image: linear-gradient(60deg, lightSalmon , tomato);
+    padding: 20px;
+    border-radius: 20px;
+}
+.lastpart img{
+   padding:20px ;
+}
